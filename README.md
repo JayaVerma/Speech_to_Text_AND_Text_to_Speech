@@ -12,3 +12,10 @@ A speech-to-text synthesizer is an application that converts audio file of .wav 
 
 # Sample output
 ![image](https://user-images.githubusercontent.com/64552791/136857079-b7597a53-ce65-4237-96d1-630937fd7840.png)
+
+# About Me:
+I am Jaya Verma, currently pursuing engineering from Electronics and telecommunication branch from the University of Mumbai.
+I am a 5star coder in Python and 4star in SQL at Hackerrank and intersted in Data Science and ML domain.
+
+### Connect me on 
+Linkedin - https://www.linkedin.com/in/jaya0902verma
